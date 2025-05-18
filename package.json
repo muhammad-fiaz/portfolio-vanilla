@@ -17,6 +17,7 @@
     "vite": "^6.3.5"
   },
   "dependencies": {
+    "navigo": "^8.11.1",
     "tailwindcss": "^4.1.7"
   }
 }

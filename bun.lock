@@ -4,13 +4,14 @@
     "": {
       "name": "portfolio",
       "dependencies": {
-        "@tailwindcss/vite": "^4.1.7",
-        "tailwindcss": "^4.1.7",
+        "navigo": "latest",
+        "tailwindcss": "latest",
       },
       "devDependencies": {
-        "prettier": "3.5.3",
-        "typescript": "~5.8.3",
-        "vite": "^6.3.5",
+        "@tailwindcss/vite": "latest",
+        "prettier": "latest",
+        "typescript": "latest",
+        "vite": "latest",
       },
     },
   },
@@ -198,6 +199,8 @@
     "mkdirp": ["mkdirp@3.0.1", "", { "bin": { "mkdirp": "dist/cjs/src/bin.js" } }, "sha512-+NsyUUAZDmo6YVHzL/stxSu3t9YS1iljliy3BSDrXJ/dkn1KYdmtZODGGjLcc9XLgVVpH4KshHB8XmZgMhaBXg=="],
 
     "nanoid": ["nanoid@3.3.11", "", { "bin": { "nanoid": "bin/nanoid.cjs" } }, "sha512-N8SpfPUnUp1bK+PMYW8qSWdl9U+wwNWI4QKxOYDy9JAro3WMX7p2OeVRF9v+347pnakNevPmiHhNmZ2HbFA76w=="],
+
+    "navigo": ["navigo@8.11.1", "", {}, "sha512-e3sc1UzakF+bWquC8/dbPCgo7LgPEW1ekgwb4pmEcl8tOc/I7lML8r7HBql+b0VRk7tJWTZqtkeObwJAVR1pxg=="],
 
     "picocolors": ["picocolors@1.1.1", "", {}, "sha512-xceH2snhtb5M9liqDsmEw56le376mTZkEX/jEb/RxNFyegNul7eNslCXP9FDj/Lcu0X8KEyMceP2ntpaHrDEVA=="],
 
